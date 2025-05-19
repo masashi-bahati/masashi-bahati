@@ -1,5 +1,4 @@
 # [:+1:](https://pages.github.com/)
-```mermaid
 graph TD
     A[島津斉彬] --> B{集成館事業};
     A --> C{藩政改革};
@@ -62,7 +61,7 @@ graph TD
     E --> V;
     E --> X;
 
-
+```mermaid
 graph TD
     1(START) --> 2{A or B or C?}
     2 --> A
