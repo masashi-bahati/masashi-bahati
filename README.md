@@ -29,10 +29,4 @@ graph TD
 
 ex{{<li>未判定時間-10分未満の非運転時間}}
 
-graph TD
-    1(START) --> 2{A or B or C?}
-    2 --> A
-    2 --> B
-    2 --> C
-    C -.->|BACK| 1
 ```
